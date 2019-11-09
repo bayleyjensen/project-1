@@ -1,5 +1,6 @@
 .background1 {
-  background: url("https://picsum.photos/800/400") center;
+  background: url(https://i.ebayimg.com/images/g/XQoAAOSwsBtZ5fQ6/s-l400.jpg);
+  flex-wrap: wrap;
 }
 .navbar {
   background: transparent;
@@ -13,5 +14,29 @@
   border: black solid;
 }
 .background2 {
-  background-color: burlywood;
+  background-color: black;
+  display: flex;
+}
+.cards {
+  display: flex;
+}
+.cont2 {
+  justify-content: space-around;
+}
+.card-img-top {
+  border-radius: 50%;
+}
+.card-body {
+  position: absolute;
+}
+.btn {
+  position: absolute;
+  align-content: center;
+}
+.obiwan {
+  padding-top: 5em;
+  text-align: -webkit-center;
+}
+.card1 {
+  position: relative;
 }
