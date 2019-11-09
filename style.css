@@ -16,11 +16,6 @@
 .background2 {
   background-color: black;
   display: flex;
-}
-.cards {
-  display: flex;
-}
-.cont2 {
   justify-content: space-around;
 }
 .card-img-top {
@@ -43,6 +38,9 @@
 .lightsaber {
   color: rgb(73, 187, 73);
 }
-.relitive {
+/* .relitive { */
   position: relative;
+}
+.empty {
+  background-color: red;
 }
