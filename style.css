@@ -8,9 +8,8 @@
   border-color: none;
   box-shadow: none;
 }
-
 .card-body {
-  border: black solid;
+  border: rgb(73, 187, 73);
 }
 .background2 {
   background-color: black;
@@ -28,5 +27,12 @@
 }
 
 .empty {
-  background: red;
+  background: rgb(73, 187, 73);
+}
+.logo {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.bg-black {
+  background: black;
 }
