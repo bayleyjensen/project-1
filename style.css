@@ -10,6 +10,7 @@
 }
 .card-body {
   border: rgb(73, 187, 73);
+  border: rgb(23, 117, 240) dotted;
 }
 .background2 {
   background-color: black;
@@ -35,4 +36,14 @@
 }
 .bg-black {
   background: black;
+}
+.star-wars {
+  width: 132px;
+}
+.bottom {
+  align-items: center;
+}
+.card4 {
+  padding-top: 3em;
+  background: none;
 }
