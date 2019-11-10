@@ -10,7 +10,6 @@
 }
 
 .card-body {
-  background-color: turquoise;
   border: black solid;
 }
 .background2 {
@@ -18,29 +17,16 @@
   display: flex;
   justify-content: space-around;
 }
-.card-img-top {
-  border-radius: 50%;
-}
-.card-body {
-  position: absolute;
-}
-.btn {
-  position: absolute;
-  align-content: center;
-}
+
 .obiwan {
   padding-top: 5em;
   text-align: -webkit-center;
 }
-.card1 {
-  position: relative;
-}
+
 .lightsaber {
   color: rgb(73, 187, 73);
 }
-/* .relitive { */
-  position: relative;
-}
+
 .empty {
-  background-color: red;
+  background: red;
 }
